@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ceafive/vienhealthreact/static/css/main.ff810e69.chunk.css",
+    "main.js": "/ceafive/vienhealthreact/static/js/main.fae5165b.chunk.js",
+    "main.js.map": "/ceafive/vienhealthreact/static/js/main.fae5165b.chunk.js.map",
+    "runtime-main.js": "/ceafive/vienhealthreact/static/js/runtime-main.9a236f6c.js",
+    "runtime-main.js.map": "/ceafive/vienhealthreact/static/js/runtime-main.9a236f6c.js.map",
+    "static/js/2.0163f8bd.chunk.js": "/ceafive/vienhealthreact/static/js/2.0163f8bd.chunk.js",
+    "static/js/2.0163f8bd.chunk.js.map": "/ceafive/vienhealthreact/static/js/2.0163f8bd.chunk.js.map",
+    "index.html": "/ceafive/vienhealthreact/index.html",
+    "static/css/main.ff810e69.chunk.css.map": "/ceafive/vienhealthreact/static/css/main.ff810e69.chunk.css.map",
+    "static/js/2.0163f8bd.chunk.js.LICENSE.txt": "/ceafive/vienhealthreact/static/js/2.0163f8bd.chunk.js.LICENSE.txt",
+    "static/media/AirbnbCereal-Black.ade7c001.ttf": "/ceafive/vienhealthreact/static/media/AirbnbCereal-Black.ade7c001.ttf",
+    "static/media/index.css": "/ceafive/vienhealthreact/static/media/AirbnbCereal-Medium.f6bfbf5d.woff",
+    "static/media/AirbnbCereal-Bold.b1e52d12.ttf": "/ceafive/vienhealthreact/static/media/AirbnbCereal-Bold.b1e52d12.ttf",
+    "static/media/AirbnbCereal-Book.3109661d.ttf": "/ceafive/vienhealthreact/static/media/AirbnbCereal-Book.3109661d.ttf",
+    "static/media/AirbnbCereal-ExtraBold.c49249f7.ttf": "/ceafive/vienhealthreact/static/media/AirbnbCereal-ExtraBold.c49249f7.ttf",
+    "static/media/AirbnbCereal-Light.59aceb6d.ttf": "/ceafive/vienhealthreact/static/media/AirbnbCereal-Light.59aceb6d.ttf",
+    "static/media/AirbnbCereal-Medium.60c1c921.ttf": "/ceafive/vienhealthreact/static/media/AirbnbCereal-Medium.60c1c921.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a236f6c.js",
+    "static/js/2.0163f8bd.chunk.js",
+    "static/css/main.ff810e69.chunk.css",
+    "static/js/main.fae5165b.chunk.js"
+  ]
+}
